@@ -60,7 +60,7 @@ Further reading
 In roughly reverse chronological (causal?) order.
 
  * [Parsing With Derivatives](http://matt.might.net/papers/might2011derivatives.pdf) by Matthew Might, David Darais, and Daniel Spiewak, International Conference on Functional Programming, 2011.
- * [Yacc is dead: An update](http://matt.might.net/articles/parsing-with-derivatives/] by Matt Might on his blog.
+ * [Yacc is dead: An update](http://matt.might.net/articles/parsing-with-derivatives/) by Matt Might on his blog.
  * [Yacc Is Not Dead](http://research.swtch.com/yaccalive) by Russ Cox on his blog.
  * [Yacc Is Dead](http://arxiv.org/abs/1010.5023) by Matthew Might and David Darais, rejected from ESOP 2009.
  * [Regular-expression derivatives reexamined](http://www.ccs.neu.edu/home/turon/re-deriv.pdf) by Scott Owens, John Reppy, and Aaron Turon, Journal of Functional Programming, 2009.

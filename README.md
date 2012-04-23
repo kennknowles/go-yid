@@ -51,6 +51,7 @@ Caveats:
    their own.
 
 So, you can see the timings I took (on a modern-ish MacBook Pro with an SSD) in timings.csv
+and a badly-labeled graphic of them in timings.png (Y-Axis is seconds, X-Axis is O(length of input))
 
 
 Further reading

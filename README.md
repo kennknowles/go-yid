@@ -7,7 +7,7 @@ Parsing (actually just a recognizer at the moment) for
 arbitrary context-free-grammars (i.e. recursive regexes) 
 inspired by and based on the work listed below in Further Reading.
 
-Written in Go because [April is being "learn a new programming language" month](http://matt.might.net/articles/programmers-resolutions/) 
+Written in Go because [April is "learn a new programming language" month](http://matt.might.net/articles/programmers-resolutions/) 
 
 Enjoy! :-)
 

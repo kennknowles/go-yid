@@ -39,9 +39,8 @@ Caveats:
    certainly to blame. Is it the emulation of algebraic data types? Are
    there places I could be more mutatey? Should I put laziness in places
    other than where it is needed for termination? Probably all of the above.
- - Thus far, I have only implemented a recognizer, not a parser, because I 
-   have faith that returning the head of a lazy stream of parse trees 
-   is the same complexity.
+ - Thus far, I have only implemented a recognizer, not a parser, because this is
+   really toy code and I just wanted to see it go and get some benchmarks.
  - There are probably bugs. In particular my recursive examples do not seem 
    to always have the memory layout I expect, and it changes based on 
    unrelated code, even in other files. This seems to affect only
